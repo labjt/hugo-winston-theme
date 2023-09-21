@@ -1,5 +1,5 @@
 ---
-title: Embrace abundance.
+title: Embrace abundance
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
