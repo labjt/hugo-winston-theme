@@ -1,15 +1,17 @@
 ---
-title: The revolution will be complete when the language is perfect
-date: 2019-08-07
+title: 4 Reasons to consider investing in an SMA
+date: 2022-01-27
 description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message and any notes that he himself had made, and dropped them into the memory hole to be devoured by the flames."
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
-   - writing 
-   - lorem 
+   - sma 
+   - taxes
+   - legacy
+   - charity 
 ---
 
-## He moved over to the window
+## What is an SMA?
 
 Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
 
